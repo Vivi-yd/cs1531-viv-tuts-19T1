@@ -1,0 +1,4 @@
+{
+  "testrect.py::Testrect::()::test_zero_area": true,
+  "testrect.py::Testrect::()::testsetwidth": true
+}

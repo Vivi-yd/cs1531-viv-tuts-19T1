@@ -1,0 +1,7 @@
+[
+  "test_us1.py::TestUS1::()::test_empty_menu",
+  "test_us1.py::TestUS1::()::test_single_item",
+  "test_us1.py::TestUS1::()::test_single_item_alt1",
+  "test_us1.py::TestUS1::()::test_single_tiem_alt2",
+  "test_us1.py::TestUS1::()::test_multiple_items"
+]
