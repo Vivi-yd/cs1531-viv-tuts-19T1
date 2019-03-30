@@ -8,8 +8,3 @@ for i in range(num):
     s += w + " "
 
 print(s, end="")
-
-def foo(something):
-    ddlsdkdjlfjl
-    def d
-print(jj)
