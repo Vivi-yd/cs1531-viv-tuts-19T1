@@ -5,7 +5,7 @@ then it should compute the factorial of 5. e.g.,
 """
 
 def factorial(n=5):
-    if n == 0:
+    if n <= 0:
         return 1
     else:
         return n* factorial(n-1)
