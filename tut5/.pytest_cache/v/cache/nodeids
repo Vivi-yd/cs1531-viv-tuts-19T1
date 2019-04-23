@@ -1,5 +1,0 @@
-[
-  "testrect.py::Testrect::()::test_zero_area",
-  "testrect.py::Testrect::()::test_get_width",
-  "testrect.py::Testrect::()::test_set_width"
-]
